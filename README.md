@@ -112,7 +112,7 @@ You can also customize chatbot with different configuration
         showTitle: true, // show/hide the title bar
         title: 'AI-CHATBOT',
         titleAvatarSrc: 'https://github.com/paulstoicasebastian/AIChatBotChatEmbed/tree/main/images/google-messages.svg',
-        welcomeMessage: 'Hello! This is custom welcome message',
+        welcomeMessage: 'Salut! Cu ce te pot ajuta?',
         backgroundColor: '#ffffff',
         height: 700,
         width: 400,
@@ -131,7 +131,7 @@ You can also customize chatbot with different configuration
           avatarSrc: 'https://github.com/paulstoicasebastian/AIChatBotChatEmbed/tree/main/images/usericon.png',
         },
         textInput: {
-          placeholder: 'Type your question',
+          placeholder: 'Pune o întrebare',
           backgroundColor: '#ffffff',
           textColor: '#303235',
           sendButtonColor: '#3B81F6',
